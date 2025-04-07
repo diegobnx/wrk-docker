@@ -62,14 +62,6 @@ Running 30s test @ http://seusite.com
 
 ---
 
-## 📦 Futuro
-
-- [ ] Suporte a script Lua para headers customizados no `wrk`
-- [ ] Interface CLI interativa
-- [ ] Dockerfile custom com `wrk` pré-instalado
-
----
-
 ## 🧑‍💻 Autor
 
 [@diegobnx](https://github.com/diegobnx)
